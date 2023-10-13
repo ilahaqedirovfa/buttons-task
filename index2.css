@@ -1,0 +1,92 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+
+  
+
+.btn {
+  margin-bottom: 100px;
+  text-decoration: none;
+  padding: 18px 32px;
+  border-radius: 30px;
+  background: linear-gradient(90deg, #ffe259 15.1%, #ffa751 85.42%);
+}
+.btn-click {
+  font-weight: bold;
+  padding: 20px 30px;
+  border-radius: 30px;
+  background: linear-gradient(90deg, #ffe259 15.1%, #ffa751 85.42%);
+}
+.submit {
+  padding: 20px 30px;
+  border-radius: 30px;
+  background: linear-gradient(90deg, #ffe259 15.1%, #ffa751 85.42%);
+}
+
+.btn1 {
+  padding: 18px 32px;
+  background: #b8daff;
+  color: #112a46;
+  text-decoration: none;
+}
+.btn2 {
+  padding: 18px 32px;
+  background: #b8daff;
+  color: #112a46;
+  font-size: 18px;
+}
+.btn3 {
+  padding: 18px 32px;
+  background: #b8daff;
+  font-size: 18px;
+  color: #112a46;
+}
+.btn4 {
+  padding: 13px 32px;
+  border: 1px dashed #e63946;
+  color: #1d3557;
+  text-decoration: none;
+}
+.btn5 {
+  padding: 13px 32px;
+  border: 1px dashed #e63946;
+  color: #1d3557;
+}
+.btn6 {
+  padding: 13px 32px;
+  border: 1px dashed #e63946;
+  color: #1d3557;
+}
+
+.buttons-1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 500px;
+  height: 400px;
+  background-color: #e995d7;
+
+  
+}
+.butonn-1{
+  padding-left: 70px;
+  padding-top: 20px;
+}
+
+
+.butonn-2{
+padding-left: 70px;
+}
+
+
+.butonn-3{
+padding-left: 70px;
+
+}
+body{
+  background-color: #ffe7fa;
+}
